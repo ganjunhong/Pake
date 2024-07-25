@@ -23,11 +23,11 @@ on:
       width:
         description: '[Width, Optional]'
         required: false
-        default: '1200'
+        default: '1920'
       height:
         description: '[Height, Optional]'
         required: false
-        default: '780'
+        default: '1080'
       safe_domain:
         description: '[Safe Domain, Optional]'
         required: false
