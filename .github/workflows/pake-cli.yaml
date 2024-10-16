@@ -17,9 +17,7 @@ on:
       name:
         description: '[Name]'
         required: true
-     installer-language:
-        description: '[installer-language]'
-        required: false
+     
       icon:
         description: '[Icon, Optional]'
         required: false
