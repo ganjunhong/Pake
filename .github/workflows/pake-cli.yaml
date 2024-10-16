@@ -17,10 +17,7 @@ on:
       name:
         description: '[Name]'
         required: true
-      installer-language:
-        description: 'installer-language'
-        required: true
-        default: 'zh-CN'
+     
       icon:
         description: '[Icon, Optional]'
         required: false
